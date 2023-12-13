@@ -33,11 +33,13 @@ This code interacts with two APIs, Edamam and Open Food Facts, so an internet co
   Alison Craik
   Aleksandra Miekisiak
 
-  ## Technologies
+ ## Technologies
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  ## License
-
-  ## APIS used
-
+## APIS used
+- [Edamam](https://www.edamam.com/)
+- [Open_Food_Facts](https://world.openfoodfacts.org/data)
+ 
+ ## License
  ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
   
