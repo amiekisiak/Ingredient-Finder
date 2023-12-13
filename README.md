@@ -22,7 +22,7 @@ This code interacts with two APIs, Edamam and Open Food Facts, so an internet co
 
 
   ## Usage
-![Demo](https://github.com/amiekisiak/Ingredient-Finder/assets/117371691/4aa1e051-7f9c-42cf-bcbb-b184e0d7f34d)
+![Demo](https://github.com/amiekisiak/weather-info/files/13666739/CFG5.mp4.odp)
   
   ## License 
   This application is licensed under MIT License license.
@@ -34,7 +34,7 @@ This code interacts with two APIs, Edamam and Open Food Facts, so an internet co
   Aleksandra Miekisiak
 
  ## Technologies
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## APIS used
 - [Edamam](https://www.edamam.com/)
@@ -42,4 +42,6 @@ This code interacts with two APIs, Edamam and Open Food Facts, so an internet co
  
  ## License
  ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+
+ Copyright © 2023.  All rights are reserved.
   
