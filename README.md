@@ -22,16 +22,16 @@ This code interacts with two APIs, Edamam and Open Food Facts, so an internet co
 
 
   ## Usage
-![Demo](https://github.com/amiekisiak/weather-info/files/13666739/CFG5.mp4.odp)
+![Demo](https://github.com/amiekisiak/weather-info/assets/117371691/34f812a8-5d1a-40f0-8f39-65db4fc01ab4)
   
   ## License 
   This application is licensed under MIT License license.
 
   ## Contributors
-  Chloe Quinn
-  Shoni Clamp
-  Alison Craik
-  Aleksandra Miekisiak
+  - Chloe Quinn
+  - Shoni Clamp
+  - Alison Craik
+  - Aleksandra Miekisiak
 
  ## Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
