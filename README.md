@@ -1,5 +1,5 @@
 # Ingredient-Finder
-CFG course group Project: Introduction To Python and Apps,
+CFG course group Project: Introduction To Python and Apps
 
 
 
