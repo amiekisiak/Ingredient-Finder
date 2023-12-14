@@ -11,7 +11,6 @@ CFG course group Project: Introduction To Python and Apps
   
  ## Table of Contents 
   - [Usage](#usage)
-  - [Screenshot](#screenshot)
   - [Contributors](#contributors)
   - [Technologies](#technologies)
   - [APIS](#apis)
@@ -40,7 +39,7 @@ https://github.com/amiekisiak/weather-info/assets/117371691/34f812a8-5d1a-40f0-8
  ## Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## APIS used
+## APIS 
 - [Edamam](https://www.edamam.com/)
 - [Open_Food_Facts](https://world.openfoodfacts.org/data)
  
