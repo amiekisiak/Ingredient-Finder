@@ -22,7 +22,7 @@ This code interacts with two APIs, Edamam and Open Food Facts, so an internet co
 
 
   ## Usage
-![Demo](https://github.com/amiekisiak/weather-info/assets/117371691/34f812a8-5d1a-40f0-8f39-65db4fc01ab4)
+https://github.com/amiekisiak/weather-info/assets/117371691/34f812a8-5d1a-40f0-8f39-65db4fc01ab4
   
   ## License 
   This application is licensed under MIT License license.
