@@ -1,5 +1,8 @@
 # Ingredient-Finder
-CFG course group Project: Introduction To Python and Apps
+CFG course group Project: Introduction To Python and Apps,
+
+
+
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
   
  ## Description 
