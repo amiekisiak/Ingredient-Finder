@@ -7,7 +7,7 @@ CFG course group Project: Introduction To Python and Apps
   
  ## Description 
  
- This a group project is an application that leverages food-related APIs to fetch recipes based on user-provided ingredients or cuisine types from the Edamam API, alongside retrieving product information using the Open Food Facts API. It offers a user-friendly interface, allowing users to explore recipes and product details, presenting the retrieved information in an accessible format and enabling data storage for future reference.
+ This group project is an application that leverages food-related APIs to fetch recipes based on user-provided ingredients or cuisine types from the Edamam API, alongside retrieving product information using the Open Food Facts API. It offers a user-friendly interface, allowing users to explore recipes and product details, presenting the retrieved information in an accessible format and enabling data storage for future reference.
   
  ## Table of Contents 
   - [Usage](#usage)
